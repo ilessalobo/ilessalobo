@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/ilessalobo">
-  <img height="192em" src="https://github-readme-stats.vercel.app/api?username=ilessalobo&theme=tokyonight&show_icons=true" />
-  <img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilessalobo&theme=tokyonight&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ilessalobo&theme=buefy&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilessalobo&theme=buefy&layout=compact" />
 </a>
   
 <p align="center">
