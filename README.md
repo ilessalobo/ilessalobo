@@ -2,8 +2,6 @@
 
 ![capaAtt](https://user-images.githubusercontent.com/78517083/194404637-aa9a5e5c-1e0d-491b-9c7d-a3716d4a6246.gif)
 
-### Hi there 👋
-
 <!--
 **ilessalobo/ilessalobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,18 +19,13 @@ Here are some ideas to get you started:
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/ilessalobo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilessalobo&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilessalobo&theme=noctis_minimus&layout=compact" />
+  <img height="192em" src="https://github-readme-stats.vercel.app/api?username=ilessalobo&theme=tokyonight&show_icons=true" />
+  <img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilessalobo&theme=tokyonight&layout=compact" />
 </a>
   
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-> GitHub 3D Contributors
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<br />
 
 <p align="right">
   <a href="https://github.com/ilessalobo?tab=repositories&sort=stargazers">
