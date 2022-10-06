@@ -1,4 +1,6 @@
-<a href="https://ibb.co/6WLpTH5"><img src="https://i.ibb.co/gRhXfSC/capa.gif" alt="capa" border="0" /></a>
+
+
+![capaAtt](https://user-images.githubusercontent.com/78517083/194404637-aa9a5e5c-1e0d-491b-9c7d-a3716d4a6246.gif)
 
 ### Hi there 👋
 
@@ -16,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
